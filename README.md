@@ -1,4 +1,4 @@
-# MOngo Nosql Lab
+# Mongo NoSQL Lab
 
 
 ### 절차
