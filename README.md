@@ -4,7 +4,7 @@
 ### 절차
 
 1. 클러스터를 이용해 데이터베이스를 세팅한다.
-    - MONGODB ALTAS (kangthink@gmail.com)
+    - MONGODB ALTAS (샘블계정사용)
 
 ![clutter setting](./cluster_setting.png)
 
